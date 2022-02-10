@@ -5,34 +5,39 @@
 
 ![](GHLogoTMP.png)
 
-### Hola colegas 👋
+Tardes camaradas 👋
 
 
 Un honor mostrar el perfil de 👨‍🏫 ✨ Rico Medina ✨.
 En la busqueda de aprender y tratando de mejorar:
 
 - 🔭 Estudiante del ITICS  
-- 🖥 ... y capacitación al trabajo con ITICS
-- 🕹️ Suelo tener pasatiempos, como jugar videojuegos
+- 🖥 Actualmente trabajo en una agencia de seguros, en AJ Asesores
+- 🕹️ Suelo tener pasatiempos, como jugar videojuegos, edicion de video, transmitir contenido, leer y escuchar musica
 - 😦 Tengo poca experiencia con Github, pero me agrada su uso y estoy dispuesto a aprender
+- 👾 Busco aprender ante cualquier tema posible, por pequeño que sea
+- 😅 Se que aun puedo superarme y estare dispuesto a ello
+
+Ante dudas o aclaraciones, ¡estamos a su servicio!
 
 
-Estudiante de TICS
-
-
-
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| Horario | Lunes                     | Martes                    | Miercoles                 | Jueves                    | Viernes                   |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 3:00pm  | Ingenieria del            | Ingenieria del            | Ingenieria del            | Ingenieria del            |                           |
+|         | Conocimiento              | Conocimiento              | Conocimiento              | Conocimiento              |                           |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 4:00pm  | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       |
+|         | de InterFaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 5:00pm  | Negocios Electronicos II  |                           |                           |                           |                           |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 6:00pm  | Negocios Electronicos II  |                           | Negocios Electronicos II  | Negocios Electronicos II  |                           |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 7:00pm  | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           |
+|         | de Desarrollo             | de Desarrollo             | de Desarrollo             | de Desarrollo             | de Desarrollo             |
+|         | de Software               | de Software               | de Software               | de Software               | de Software               |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| 8:00pm  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  |
+|         | de la Informacion         | de la Informacion         | de la Informacion         | de la Informacion         | de la Informacion         |
++---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
