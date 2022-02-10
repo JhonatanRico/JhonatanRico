@@ -21,23 +21,11 @@ En la busqueda de aprender y tratando de mejorar:
 Ante dudas o aclaraciones, ¡estamos a su servicio!
 
 
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| Horario | Lunes                     | Martes                    | Miercoles                 | Jueves                    | Viernes                   |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 3:00pm  | Ingenieria del            | Ingenieria del            | Ingenieria del            | Ingenieria del            |                           |
-|         | Conocimiento              | Conocimiento              | Conocimiento              | Conocimiento              |                           |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 4:00pm  | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       | Diseño y Evaluacion       |
-|         | de InterFaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    | de Interfaz de Usuario    |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 5:00pm  | Negocios Electronicos II  |                           |                           |                           |                           |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 6:00pm  | Negocios Electronicos II  |                           | Negocios Electronicos II  | Negocios Electronicos II  |                           |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 7:00pm  | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           | Temas Avanzados           |
-|         | de Desarrollo             | de Desarrollo             | de Desarrollo             | de Desarrollo             | de Desarrollo             |
-|         | de Software               | de Software               | de Software               | de Software               | de Software               |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
-| 8:00pm  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  | Auditoria en Tecnologias  |
-|         | de la Informacion         | de la Informacion         | de la Informacion         | de la Informacion         | de la Informacion         |
-+---------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| Horario | Lunes                                       | Martes                                      | Miercoles                                   | Jueves                                      | Viernes                                     |
+|---------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| 3:00pm  | Ingenieria del  Conocimiento                | Ingenieria del  Conocimiento                | Ingenieria del  Conocimiento                | Ingenieria del  Conocimiento                |                                             |
+| 4:00pm  | Diseño y Evaluacion de InterFaz de Usuario  | Diseño y Evaluacion de Interfaz de Usuario  | Diseño y Evaluacion de Interfaz de Usuario  | Diseño y Evaluacion de Interfaz de Usuario  | Diseño y Evaluacion de Interfaz de Usuario  |
+| 5:00pm  | Negocios Electronicos II                    |                                             |                                             |                                             |                                             |
+| 6:00pm  | Negocios Electronicos II                    |                                             | Negocios Electronicos II                    | Negocios Electronicos II                    |                                             |
+| 7:00pm  | Temas Avanzados  de Desarrollo  de Software | Temas Avanzados  de Desarrollo  de Software | Temas Avanzados  de Desarrollo  de Software | Temas Avanzados  de Desarrollo  de Software | Temas Avanzados  de Desarrollo  de Software |
+| 8:00pm  | Auditoria en Tecnologias  de la Informacion | Auditoria en Tecnologias  de la Informacion | Auditoria en Tecnologias  de la Informacion | Auditoria en Tecnologias  de la Informacion | Auditoria en Tecnologias  de la Informacion |
