@@ -11,7 +11,7 @@ Buen dia a quien corresponda 👋
 Un gusto mostrar el perfil de 👨‍🏫 ✨ Rico Medina ✨.
 En la busqueda de aprender y tratando de mejorar:
 
-- 🔭 Estudiante del TICS  
+- 🔭 Egresado de TICS  
 - 🖥 Actualmente me dedico a la programacion, en aprendizaje progresivo hacia desarrollo de aplicaciones web
 - 🕹️ Suelo tener pasatiempos, como jugar videojuegos, edicion de video, transmitir contenido, leer y escuchar musica
 - 😦 Tengo poca experiencia con Github, pero me agrada su uso y estoy dispuesto a aprender
